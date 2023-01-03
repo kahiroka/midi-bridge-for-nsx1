@@ -11,7 +11,7 @@ class Nsx1():
         self.index = 0
         self.solfa_mode = True
         self.lyrics = ''
-        self.solfa = 'd o,d o,4 e,4 e,m i,p a,p a,s o,s o,4 a,4 a,s i'
+        self.solfa = 'd o,d o,4 e,4 e,m i,p\ a,p\ a,s o,s o,4 a,4 a,s i'
         self.debug = debug
         if self.debug:
             print(mido.backend)

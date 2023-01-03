@@ -36,7 +36,7 @@ Below is a partial table of eVocaloid<sup>TM</sup> Phonetic Alphabet(PA) from NS
     na   n a   ni   J i   nu   n M   ne   n e   no   n o
     ha   h a   hi   C i   fu   p\ M  he   h e   ho   h o
     ma   m a   mi   m' i  mu   m M   me   m e   mo   m o
-    ra   4 a   ri   4' i  ru   4 M   re   4e    ro   4 o
+    ra   4 a   ri   4' i  ru   4 M   re   4 e   ro   4 o
     ga   g a   gi   g' i  gu   g M   ge   g e   go   g o
     za   dz a  zi   dZ i  zu   dz M  ze   dz e  zo   dz o
     da   d a   di   dZ i  du   dz M  de   d e   do   d o
